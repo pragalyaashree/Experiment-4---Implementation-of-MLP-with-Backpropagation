@@ -161,16 +161,14 @@ print(classification_report(y_test,predictions))
 
 
 ## OUTPUT 
-![att 1](https://user-images.githubusercontent.com/128135934/231806189-74ffd0bc-6b81-45ce-9a2b-9fe80b0709dd.png)
-![att 2](https://user-images.githubusercontent.com/128135934/231806337-f414a7ca-bac9-4e4b-b12a-840f18ede6d0.png)
-![att 3](https://user-images.githubusercontent.com/128135934/231806485-c1727807-b1fd-40b2-b1ea-70191bc88914.png)
-![att 4](https://user-images.githubusercontent.com/128135934/231806603-4dffe6de-e1e0-4efe-95f1-7994c5a1569f.png)
-![att 5](https://user-images.githubusercontent.com/128135934/231806811-5a8d4e28-f4fb-419e-9891-b4a7865af037.png)
-![att 6](https://user-images.githubusercontent.com/128135934/231806889-da0afb4d-f447-432e-873b-90eeeb62e33b.png)
-![att 7](https://user-images.githubusercontent.com/128135934/231807288-6ef479ca-ac10-440d-b692-b3916b431669.png)
-![att 8](https://user-images.githubusercontent.com/128135934/231807402-857373ab-132f-43b6-bc36-77beccc25f31.png)
-![att 9](https://user-images.githubusercontent.com/128135934/231807493-4f80d341-4d2b-40d8-b364-9ab66de47c28.png)
-![att 10](https://user-images.githubusercontent.com/128135934/231807653-fc19f742-03b6-4e0a-9cdf-3e4ae46b1fc3.png)
+![1](https://user-images.githubusercontent.com/128135934/231819860-43bba87e-aec8-4172-81fa-7bd1af5ac6f1.png)
+![2](https://user-images.githubusercontent.com/128135934/231819911-0c021afc-4815-4140-b2f8-19f84a5a456e.png)
+
+![3](https://user-images.githubusercontent.com/128135934/231820007-79a50fdd-3fad-494e-89c5-80d9317dfa71.png)
+![4](https://user-images.githubusercontent.com/128135934/231820093-eff914c8-e6c8-48f1-9463-0a9727972d7a.png)
+
+![5](https://user-images.githubusercontent.com/128135934/231820200-12835886-8053-405e-9ad5-c60f57f95f32.png)
+
 
 ## RESULT
 Thus Implementation-of-MLP-with-Backpropagation problem is executed successfully.
