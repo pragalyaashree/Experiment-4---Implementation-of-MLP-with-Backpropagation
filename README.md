@@ -119,10 +119,10 @@ Normalize our dataset.
 
 ## PROGRAM 
 ```
-*\
+
 DEVELOPED BY: R.K PRAGALYAA SHREE
 REG NO: 212221040125
-/*
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -157,6 +157,7 @@ print(predictions)
 
 print(confusion_matrix(y_test,predictions))
 print(classification_report(y_test,predictions))
+```
 
 
 ## OUTPUT 
